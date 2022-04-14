@@ -1,139 +1,64 @@
 [
   {
-    "image": "",
-    "name": "L'industrie Pizzeria",
+ 
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/19/1f/f8/a8/photo0jpg.jpg",
+    "name": "L'Industrie Pizzeria",
     "category": "restaurant",
     "description": "Celebrated locale turning out classic old-world pies & slices, plus inventive flavor combinations.",
-    "hours": {
-      "Monday": "12PM-10PM",
-      "Tuesday": "12PM-10PM",
-      "Wednesday": "12PM-10PM",
-      "Thursday": "12PM-10PM",
-      "Friday": "12PM-10PM",
-      "Saturday": "12PM-10PM",
-      "Sunday": "12PM-10PM"
-    },
     "address": "254 S 2nd St, Brooklyn, NY 11211",
     "phone": "(718) 599-0002"
   },
   {
-    "image": "",
+    "image": "http://compassandtwine.com/wp-content/uploads/2015/09/p.jpg",
     "name": "St. Anselm",
     "category": "restaurant",
     "description": "Steaks & grilled seafood are the specialty of this unassuming, brick-walled spot.",
-    "hours": {
-      "Monday": "5PM-11PM",
-      "Tuesday": "5PM-11PM",
-      "Wednesday": "5PM-11PM",
-      "Thursday": "5PM-11PM",
-      "Friday": "5PM-12AM",
-      "Saturday": "12PM-12AM",
-      "Sunday": "12PM-11PM"
-    },
     "address": "355 Metropolitan Ave, Brooklyn, NY 11211",
     "phone": "(718) 384-5054"
   },
   {
-    "image": "",
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/0lCnkcWh6E1xCmjAsqeZYg/l.jpg",
     "name": "Pepolino",
     "category": "restaurant",
     "description": "Easygoing, bi-level restaurant with outdoor seating serving modern Tuscan dishes & Italian wines.",
-    "hours": {
-      "Monday": "12PM-10:30PM",
-      "Tuesday": "12PM-10:30PM",
-      "Wednesday": "12PM-10:30PM",
-      "Thursday": "12PM-10:30PM",
-      "Friday": "12PM-10:30PM",
-      "Saturday": "12PM-10:30PM",
-      "Sunday": "12PM-10:30PM"
-    },
     "address": "281 W Broadway, New York, NY 10013",
     "phone": "(212) 966-9983"
   },
   {
-    "image": "randomimage123",
-    "name": " Fiaschetteria Pistoia",
-    "category": "restaurant",
-    "description": "Pastas, prosciutto & other Tuscan dishes are paired with Italian wines at this intimate eatery.",
-    "hours": {
-      "Monday": "5:30PM-10:30PM",
-      "Tuesday": "5:30PM-10:30PM",
-      "Wednesday": "5:30PM-10:30PM",
-      "Thursday": "5:30PM-10:30PM",
-      "Friday": "5:30PM-10:30PM",
-      "Saturday": "5:30PM-10:30PM",
-      "Sunday": "5:30PM-10:30PM"
-    },
     "address": "647 E 11th St, New York, NY 10009",
     "phone": "(212) 777-3355"
   },
   {
-    "image": "",
+    "image": "http://gourmadela.com/wp-content/uploads/2016/07/image-100-700x458.jpeg",
     "name": "Lillia",
     "category": "restaurant",
     "description": "In a redone auto-body shop, this Italian place offers wood-fired Italian fare & housemade pastas.",
-    "hours": {
-      "Monday": "4PM-10PM",
-      "Tuesday": "4PM-10PM",
-      "Wednesday": "4PM-10PM",
-      "Thursday": "4PM-10PM",
-      "Friday": "4PM-10PM",
-      "Saturday": "4PM-10PM",
-      "Sunday": "4PM-10PM"
-    },
     "address": "567 Union Ave, Brooklyn, NY 11211",
     "phone": "(718) 576-3095"
   },
   {
-    "image": "",
+    "image": "https://4.bp.blogspot.com/-YF1lLsLXMSc/WpB-UXYNooI/AAAAAAAAOVg/isrXPAWMaZgAdADuXSSfylW47e9XlD-pQCLcBGAs/s1600/IMG_5780.jpg",
     "name": "Hibino",
     "category": "restaurant",
     "description": "Sushi, small plates & housemade tofu are on the menu at this creative, quiet Japanese restaurant.",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "12PM-2:30PM, 4:30-9:00PM",
-      "Wednesday": "12PM-2:30PM, 4:30-9:00PM",
-      "Thursday": "12PM-2:30PM, 4:30-9:00PM",
-      "Friday": "12PM-2:30PM, 4:30-9:00PM",
-      "Saturday": "4:30PM-9:00PM",
-      "Sunday": "Closed"
-    },
     "address": "333 Henry St, Brooklyn, NY 11201",
     "phone": "(718) 260-8052"
   },
   {
-    "image": "",
+    "image": "https://images.getbento.com/accounts/5981f31f3c2c7dd28e008bad3408d3d0/media/images/1631907101291.png?w=1000&fit=max&auto=compress,format&h=1000",
     "name": "Fish Cheeks",
     "category": "restaurant",
     "description": "Eatery by chef-brothers from Thailand for shareable Thai seafood plates with cocktails.",
-    "hours": {
-      "Monday": "12PM-3PM, 5PM-10PM",
-      "Tuesday": "12PM-3PM, 5PM-10PM",
-      "Wednesday": "12PM-3PM, 5PM-10PM",
-      "Thursday": "12PM-3PM, 5PM-10PM",
-      "Friday": "12PM-3PM, 5PM-10PM",
-      "Saturday": "12PM-3PM, 5PM-10PM",
-      "Sunday": "12PM-3PM, 5PM-10PM"
-    },
     "address": "55 Bond St, New York, NY 10012",
     "phone": "212) 677-2223"
   },
   {
-    "image": "",
+    "image": "https://fastly.4sqi.net/img/general/600x600/458191728_gYrbGRvqvJ9L8p8ihpmP8ftDaV_IYo6_4g1MHHZudag.jpg",
     "name": "Soothr",
     "category": "restaurant",
     "description": "Intimate space with al fresco dining offering Thai noodles & soups, plus cocktails.",
-    "hours": {
-      "Monday": "12PM-4PM, 5PM-10:30PM",
-      "Tuesday": "12PM-4PM, 5PM-10:30PM",
-      "Wednesday": "12PM-4PM, 5PM-10:30PM",
-      "Thursday": "12PM-4PM, 5PM-10:30PM",
-      "Friday": "12PM-4PM, 5PM-10:30PM",
-      "Saturday": "12PM-4PM, 5PM-10:30PM",
-      "Sunday": "12PM-4PM, 5PM-10:30PM"
-    },
     "address": "204 E 13th St, New York, NY 10003",
-    "phone": "212) 844-9789"
+    "phone": "(212) 844-9789"
   },
   {
     "image": "",
