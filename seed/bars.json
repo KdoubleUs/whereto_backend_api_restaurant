@@ -1,0 +1,240 @@
+[
+  {
+    "image": "",
+    "name": "Patent Pending",
+    "category": "bar",
+    "description": "Low-lit bar behind a hidden door in Patent Coffee, serving cocktails with an electric theme.",
+    "hours": {
+      "Monday": "5PM-12AM",
+      "Tuesday": "5PM-12AM",
+      "Wednesday": "5PM-12AM",
+      "Thursday": "5PM-2AM",
+      "Friday": "5PM-2AM",
+      "Saturday": "5PM-2AM",
+      "Sunday": "5PM-12AM"
+    },
+    "address": "49 W 27th St, New York, NY 10001",
+    "phone": "212 689-4002"
+  },
+  {
+    "image": "",
+    "name": "Fresh Kills",
+    "category": "bar",
+    "descripiton": "Attractive space for carefully-prepared craft cocktails.",
+    "hours": {
+      "Monday": "5PM-1AM",
+      "Tuesday": "5PM-1AM",
+      "Wednesday": "5PM-1AM",
+      "Thursday": "5PM-1AM",
+      "Friday": "5PM-1AM",
+      "Saturday": "5PM-1AM",
+      "Sunday": "5PM-1AM"
+    },
+    "address": "161 Grand St, Brooklyn, NY 11249",
+    "phone": "(718) 599-7888"
+  },
+  {
+    "image": "",
+    "name": "Barely Disfigured",
+    "category": "",
+    "descripiton": "Low-lit lounge featuring craft cocktails amid bordello-inspired decor in a one-time massage parlor.",
+    "hours": {
+      "Monday": "5PM-12AM",
+      "Tuesday": "5PM-12AM",
+      "Wednesday": "5PM-12AM",
+      "Thursday": "5PM-12AM",
+      "Friday": "4PM-1:30AM",
+      "Saturday": "4PM-1:30AM",
+      "Sunday": "5PM-12AM"
+    },
+    "address": "257 Smith St, Brooklyn, NY 11231",
+    "phone": "(718) 858-5646"
+  },
+  {
+    "image": "",
+    "name": "Mace",
+    "category": "",
+    "descripiton": "Creative craft cocktails & snacks in a petite brick-walled space with some banquette seats & stools.",
+    "hours": {
+      "Monday": "4PM-12AM",
+      "Tuesday": "4PM12AM",
+      "Wednesday": "4PM-12AM",
+      "Thursday": "4PM-1AM",
+      "Friday": "4PM-2AM",
+      "Saturday": "2PM-2AM",
+      "Sunday": "2PM-12AM"
+    },
+    "address": "35 W 8th St, New York, NY 10011",
+    "phone": "(347) 866-7739"
+  },
+  {
+    "image": "",
+    "name": "Raine's Law Room",
+    "category": "bar",
+    "descripiton": "A semi-secret entrance (ring bell) leads to this plush lounge crafting Prohibition-era cocktails.",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "48 W 17th Street New York NY 10011",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "The Up & Up",
+    "category": "",
+    "descripiton": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "116 MacDougal St, New York, NY 10012",
+    "phone": "(212) 260-3000"
+  },
+  {
+    "image": "",
+    "name": "Yours Sincerely",
+    "category": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "descripiton": "",
+    "address": "41 Wilson Ave, Brooklyn, NY 11237",
+    "phone": "(929) 234-2344"
+  },
+  {
+    "image": "",
+    "name": "Pouring Ribbons",
+    "category": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "descripiton": "",
+    "address": "225 Avenue B 2nd floor, New York, NY 10009",
+    "phone": "(917) 796-8618"
+  },
+  {
+    "image": "",
+    "name": "The Little Shop",
+    "category": "",
+    "descripiton": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "252 Front St, New York, NY 10038",
+    "phone": "(646) 360-4650"
+  },
+  {
+    "image": "",
+    "name": "Pokito",
+    "category": "",
+    "descripiton": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "155 S 4th St, Brooklyn, NY 11211",
+    "phone": "(917) 909-1542"
+  },
+  {
+    "image": "",
+    "name": " Undercote",
+    "category": "",
+    "descripiton": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "16 W 22nd St, New York, NY 10010",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "Gallow Green",
+    "category": "",
+    "descripiton": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "542 W 27th St, New York, NY 10001",
+    "phone": "(212) 904-1880"
+  },
+  {
+    "image": "",
+    "name": "Sunshine Laundromat",
+    "category": "",
+    "descripiton": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "860 Manhattan Ave, Brooklyn, NY 11222",
+    "phone": "(718) 475-2055"
+  },
+  {
+    "image": "",
+    "name": "Terra Blues",
+    "category": "",
+    "descripiton": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "149 Bleecker St, New York, NY 10012",
+    "phone": "(212) 777-7776"
+  }
+]

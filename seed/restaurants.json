@@ -1,0 +1,400 @@
+[
+  {
+    "image": "",
+    "name": "",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "254 S 2nd St, Brooklyn, NY 11211",
+    "phone": "(718) 599-0002"
+  },
+  {
+    "image": "",
+    "name": "St. Anselm",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "355 Metropolitan Ave, Brooklyn, NY 11211",
+    "phone": " (718) 384-5054"
+  },
+  {
+    "image": "",
+    "name": "Pepolino",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "281 W Broadway, New York, NY 10013",
+    "phone": "(212) 966-9983"
+  },
+  {
+    "image": "",
+    "name": " Fiaschetteria Pistoia",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "647 E 11th St, New York, NY 10009",
+    "phone": "(212) 777-3355"
+  },
+  {
+    "image": "",
+    "name": "Lillia",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "567 Union Ave, Brooklyn, NY 11211",
+    "phone": " (718) 576-3095"
+  },
+  {
+    "image": "",
+    "name": "Hibino",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "Fish Cheeks",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "55 Bond St, New York, NY 10012",
+    "phone": "212) 677-2223"
+  },
+  {
+    "image": "",
+    "name": "Soothr",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "204 E 13th St, New York, NY 10003",
+    "phone": "212) 844-9789"
+  },
+  {
+    "image": "",
+    "name": "Dunwell Doughnuts",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": " Fan Fan Doughnuts",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": " Oxomoco",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "Nura",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "Crown Shy",
+    "address": "",
+    "phone": "",
+    "description": "Michelin starred, amazing restaurant, one of my favorites"
+  },
+  {
+    "image": "",
+    "name": "Arepera Guacuco",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "The Woo",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "Ali's Roti Shop 337 Utica Ave ",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "C & Y",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "La Bellezza",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": " Masti",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "Sylvia's",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "Sam's Fried Ice Cream",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "Spot Dessert Bar",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "Mikey Likes",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  },
+  {
+    "image": "",
+    "name": "Morgenstern's",
+    "category": "",
+    "description": "",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    },
+    "address": "",
+    "phone": ""
+  }
+]
