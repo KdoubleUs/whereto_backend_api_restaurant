@@ -1,137 +1,65 @@
 [
   {
-    "image": "",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/06/2d/48/33/gotham-archery.jpg",
     "name": "Gotham Archery",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "activity",
+    "description": "Archery range in Brooklyn, New York",
     "address": "480 Baltic St, Brooklyn, NY 11217",
     "phone": "(718) 858-5060"
   },
   {
-    "image": "",
-    "name": " Area 53 Paintball",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "image": "https://fastly.4sqi.net/img/general/600x600/51256432_vXdJLWsiwkKiP44D1ZNJPmwVfvPZLIGiuz9rAP8i0L4.jpg",
+    "name": "Area 53 Paintball",
+    "category": "activity",
+    "description": "Paintball center in Brooklyn, New York",
     "address": "616 Scholes St, Brooklyn, NY 11237",
     "phone": "(347) 748-1007"
   },
   {
-    "image": "",
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/ph9IPeIsv3F7flvgQT6NJQ/l.jpg",
     "name": "Break Bar",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "activity",
+    "description": "Metropolitan bar with black & white art & a 'throwing range' to smash glasses & electronic items.",
     "address": "458 9th Ave, New York, NY 10018",
     "phone": " (212) 933-0929"
   },
   {
-    "image": "",
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/87/10/c2/the-gutter.jpg",
     "name": "The Gutter",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "activity",
+    "description": "Vintage Bowling Lanes, American Craft Beer, Brick Oven Pizza & Pub Fare.",
     "address": "200 N 14th St, Brooklyn, NY 11249",
     "phone": "(718) 387-3585"
   },
   {
-    "image": "",
-    "name": "",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "image": "https://img.bizbash.com/files/base/bizbash/bzb/image/2017/01/nitehawk_williamsburg_theater_1_003.png?auto=format%2Ccompress&q=70&w=720",
+    "name": "Nitehawk Cinema",
+    "category": "activity",
+    "description": "Movies screened with global fare & craft cocktails served at patrons' seats.",
     "address": "136 Metropolitan Ave, Brooklyn, NY 11249",
     "phone": "(646) 963-9288"
   },
   {
-    "image": "",
+    "image": "http://photos.cinematreasures.org/production/photos/155527/1453317243/large.jpg?1453317243",
     "name": "Syndicated",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "activity",
+    "description": "Movie theater showing recent classics, plus a restaurant & bar serving American fare & cocktails.",
     "address": "40 Bogart St, Brooklyn, NY 11206",
     "phone": "(718) 386-3399"
   },
   {
-    "image": "",
+    "image": "https://res.cloudinary.com/mommy-nearest/image/upload/c_fill,h_450,w_800/iahsilygal3j0dd2vidq.jpg",
     "name": "Brooklyn Boulders Queensbridge",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "activity",
+    "description": "Rock climbing in Queens, New York",
     "address": "23-10 41st Ave, Queens, NY 11101",
     "phone": " (718) 482-7078"
   },
   {
-    "image": "",
+    "image": "https://www.climbingbusinessjournal.com/wp-content/uploads/vital-e1532115735328.jpg",
     "name": "VITAL Gym",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "activity",
+    "description": "Gym in Brooklyn, New York",
     "address": "221 N 14th St, Brooklyn, NY 11249",
     "phone": "(716) 220-8195"
   }

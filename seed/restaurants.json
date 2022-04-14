@@ -1,154 +1,73 @@
 [
   {
-    "image": "",
-    "name": "",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/19/1f/f8/a8/photo0jpg.jpg",
+    "name": "L'Industrie Pizzeria",
+    "category": "restaurant",
+    "description": "Celebrated locale turning out classic old-world pies & slices, plus inventive flavor combinations.",
     "address": "254 S 2nd St, Brooklyn, NY 11211",
     "phone": "(718) 599-0002"
   },
   {
-    "image": "",
+    "image": "http://compassandtwine.com/wp-content/uploads/2015/09/p.jpg",
     "name": "St. Anselm",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "restaurant",
+    "description": "Steaks & grilled seafood are the specialty of this unassuming, brick-walled spot.",
     "address": "355 Metropolitan Ave, Brooklyn, NY 11211",
     "phone": " (718) 384-5054"
   },
   {
-    "image": "",
+    "image": "https://s3-media0.fl.yelpcdn.com/bphoto/0lCnkcWh6E1xCmjAsqeZYg/l.jpg",
     "name": "Pepolino",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "restaurant",
+    "description": "Easygoing, bi-level restaurant with outdoor seating serving modern Tuscan dishes & Italian wines.",
     "address": "281 W Broadway, New York, NY 10013",
     "phone": "(212) 966-9983"
   },
   {
-    "image": "",
-    "name": " Fiaschetteria Pistoia",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "image": "https://media-cdn.tripadvisor.com/media/photo-s/18/93/1f/26/shot-of-the-bar-which.jpg",
+    "name": "Fiaschetteria Pistoia",
+    "category": "restaurant",
+    "description": "Pastas, prosciutto & other Tuscan dishes are paired with Italian wines at this intimate eatery.",
     "address": "647 E 11th St, New York, NY 10009",
     "phone": "(212) 777-3355"
   },
   {
-    "image": "",
+    "image": "http://gourmadela.com/wp-content/uploads/2016/07/image-100-700x458.jpeg",
     "name": "Lillia",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "restaurant",
+    "description": "In a redone auto-body shop, this Italian place offers wood-fired Italian fare & housemade pastas.",
     "address": "567 Union Ave, Brooklyn, NY 11211",
     "phone": " (718) 576-3095"
   },
   {
-    "image": "",
+    "image": "https://4.bp.blogspot.com/-YF1lLsLXMSc/WpB-UXYNooI/AAAAAAAAOVg/isrXPAWMaZgAdADuXSSfylW47e9XlD-pQCLcBGAs/s1600/IMG_5780.jpg",
     "name": "Hibino",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
-    "address": "",
-    "phone": ""
+    "category": "restaurant",
+    "description": "Sushi, small plates & housemade tofu are on the menu at this creative, quiet Japanese restaurant.",
+    "address": "333 Henry St, Brooklyn, NY 11201",
+    "phone": "(718) 260-8052"
   },
   {
-    "image": "",
+    "image": "https://images.getbento.com/accounts/5981f31f3c2c7dd28e008bad3408d3d0/media/images/1631907101291.png?w=1000&fit=max&auto=compress,format&h=1000",
     "name": "Fish Cheeks",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "restaurant",
+    "description": "Eatery by chef-brothers from Thailand for shareable Thai seafood plates with cocktails.",
     "address": "55 Bond St, New York, NY 10012",
     "phone": "212) 677-2223"
   },
   {
-    "image": "",
+    "image": "https://fastly.4sqi.net/img/general/600x600/458191728_gYrbGRvqvJ9L8p8ihpmP8ftDaV_IYo6_4g1MHHZudag.jpg",
     "name": "Soothr",
-    "category": "",
-    "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
+    "category": "restaurant",
+    "description": "Intimate space with al fresco dining offering Thai noodles & soups, plus cocktails.",
     "address": "204 E 13th St, New York, NY 10003",
-    "phone": "212) 844-9789"
+    "phone": "(212) 844-9789"
   },
   {
     "image": "",
     "name": "Dunwell Doughnuts",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -157,15 +76,6 @@
     "name": " Fan Fan Doughnuts",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -174,15 +84,6 @@
     "name": " Oxomoco",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -191,15 +92,6 @@
     "name": "Nura",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -215,15 +107,6 @@
     "name": "Arepera Guacuco",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -232,15 +115,6 @@
     "name": "The Woo",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -249,15 +123,6 @@
     "name": "Ali's Roti Shop 337 Utica Ave ",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -266,15 +131,6 @@
     "name": "C & Y",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -283,15 +139,6 @@
     "name": "La Bellezza",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -300,15 +147,6 @@
     "name": " Masti",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -317,15 +155,6 @@
     "name": "Sylvia's",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -334,15 +163,6 @@
     "name": "Sam's Fried Ice Cream",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -351,15 +171,6 @@
     "name": "Spot Dessert Bar",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -368,15 +179,6 @@
     "name": "Mikey Likes",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   },
@@ -385,15 +187,6 @@
     "name": "Morgenstern's",
     "category": "",
     "description": "",
-    "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
-    },
     "address": "",
     "phone": ""
   }
