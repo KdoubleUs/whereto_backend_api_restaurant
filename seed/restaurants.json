@@ -1,17 +1,17 @@
 [
   {
     "image": "",
-    "name": "",
-    "category": "",
-    "description": "",
+    "name": "L'industrie Pizzeria",
+    "category": "restaurant",
+    "description": "Celebrated locale turning out classic old-world pies & slices, plus inventive flavor combinations.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "12PM-10PM",
+      "Tuesday": "12PM-10PM",
+      "Wednesday": "12PM-10PM",
+      "Thursday": "12PM-10PM",
+      "Friday": "12PM-10PM",
+      "Saturday": "12PM-10PM",
+      "Sunday": "12PM-10PM"
     },
     "address": "254 S 2nd St, Brooklyn, NY 11211",
     "phone": "(718) 599-0002"
@@ -19,33 +19,33 @@
   {
     "image": "",
     "name": "St. Anselm",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Steaks & grilled seafood are the specialty of this unassuming, brick-walled spot.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "5PM-11PM",
+      "Tuesday": "5PM-11PM",
+      "Wednesday": "5PM-11PM",
+      "Thursday": "5PM-11PM",
+      "Friday": "5PM-12AM",
+      "Saturday": "12PM-12AM",
+      "Sunday": "12PM-11PM"
     },
     "address": "355 Metropolitan Ave, Brooklyn, NY 11211",
-    "phone": " (718) 384-5054"
+    "phone": "(718) 384-5054"
   },
   {
     "image": "",
     "name": "Pepolino",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Easygoing, bi-level restaurant with outdoor seating serving modern Tuscan dishes & Italian wines.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "12PM-10:30PM",
+      "Tuesday": "12PM-10:30PM",
+      "Wednesday": "12PM-10:30PM",
+      "Thursday": "12PM-10:30PM",
+      "Friday": "12PM-10:30PM",
+      "Saturday": "12PM-10:30PM",
+      "Sunday": "12PM-10:30PM"
     },
     "address": "281 W Broadway, New York, NY 10013",
     "phone": "(212) 966-9983"
@@ -53,16 +53,16 @@
   {
     "image": "",
     "name": " Fiaschetteria Pistoia",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Pastas, prosciutto & other Tuscan dishes are paired with Italian wines at this intimate eatery.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "5:30PM-10:30PM",
+      "Tuesday": "5:30PM-10:30PM",
+      "Wednesday": "5:30PM-10:30PM",
+      "Thursday": "5:30PM-10:30PM",
+      "Friday": "5:30PM-10:30PM",
+      "Saturday": "5:30PM-10:30PM",
+      "Sunday": "5:30PM-10:30PM"
     },
     "address": "647 E 11th St, New York, NY 10009",
     "phone": "(212) 777-3355"
@@ -70,50 +70,50 @@
   {
     "image": "",
     "name": "Lillia",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "In a redone auto-body shop, this Italian place offers wood-fired Italian fare & housemade pastas.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "4PM-10PM",
+      "Tuesday": "4PM-10PM",
+      "Wednesday": "4PM-10PM",
+      "Thursday": "4PM-10PM",
+      "Friday": "4PM-10PM",
+      "Saturday": "4PM-10PM",
+      "Sunday": "4PM-10PM"
     },
     "address": "567 Union Ave, Brooklyn, NY 11211",
-    "phone": " (718) 576-3095"
+    "phone": "(718) 576-3095"
   },
   {
     "image": "",
     "name": "Hibino",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Sushi, small plates & housemade tofu are on the menu at this creative, quiet Japanese restaurant.",
     "hours": {
       "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Tuesday": "12PM-2:30PM, 4:30-9:00PM",
+      "Wednesday": "12PM-2:30PM, 4:30-9:00PM",
+      "Thursday": "12PM-2:30PM, 4:30-9:00PM",
+      "Friday": "12PM-2:30PM, 4:30-9:00PM",
+      "Saturday": "4:30PM-9:00PM",
+      "Sunday": "Closed"
     },
-    "address": "",
-    "phone": ""
+    "address": "333 Henry St, Brooklyn, NY 11201",
+    "phone": "(718) 260-8052"
   },
   {
     "image": "",
     "name": "Fish Cheeks",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Eatery by chef-brothers from Thailand for shareable Thai seafood plates with cocktails.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "12PM-3PM, 5PM-10PM",
+      "Tuesday": "12PM-3PM, 5PM-10PM",
+      "Wednesday": "12PM-3PM, 5PM-10PM",
+      "Thursday": "12PM-3PM, 5PM-10PM",
+      "Friday": "12PM-3PM, 5PM-10PM",
+      "Saturday": "12PM-3PM, 5PM-10PM",
+      "Sunday": "12PM-3PM, 5PM-10PM"
     },
     "address": "55 Bond St, New York, NY 10012",
     "phone": "212) 677-2223"
@@ -121,16 +121,16 @@
   {
     "image": "",
     "name": "Soothr",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Intimate space with al fresco dining offering Thai noodles & soups, plus cocktails.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "12PM-4PM, 5PM-10:30PM",
+      "Tuesday": "12PM-4PM, 5PM-10:30PM",
+      "Wednesday": "12PM-4PM, 5PM-10:30PM",
+      "Thursday": "12PM-4PM, 5PM-10:30PM",
+      "Friday": "12PM-4PM, 5PM-10:30PM",
+      "Saturday": "12PM-4PM, 5PM-10:30PM",
+      "Sunday": "12PM-4PM, 5PM-10:30PM"
     },
     "address": "204 E 13th St, New York, NY 10003",
     "phone": "212) 844-9789"
@@ -138,263 +138,273 @@
   {
     "image": "",
     "name": "Dunwell Doughnuts",
-    "category": "",
-    "description": "",
+    "category": "dessert",
+    "description": "All-vegan donut shop with a rotating list of 200 varieties, plus ice cream & French-press coffee.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "8AM-6PM",
+      "Tuesday": "8AM-6PM",
+      "Wednesday": "8AM-6PM",
+      "Thursday": "8AM-6PM",
+      "Friday": "8AM-6PM",
+      "Saturday": "8AM-6PM",
+      "Sunday": "8AM-6PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "222 Montrose Ave, Brooklyn, NY 11206",
+    "phone": "(347) 294-0871"
   },
   {
     "image": "",
-    "name": " Fan Fan Doughnuts",
-    "category": "",
-    "description": "",
+    "name": "Fan Fan Doughnuts",
+    "category": "dessert",
+    "description": "Artisanal donuts are baked on-site in small batches at this classic shop, which offers coffee & tea.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "8AM-4PM",
+      "Tuesday": "8AM-4PM",
+      "Wednesday": "8AM-4PM",
+      "Thursday": "8AM-4PM",
+      "Friday": "9AM-6PM",
+      "Saturday": "9AM-6PM",
+      "Sunday": "9AM-6PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "48 Lafayette Ave, Brooklyn, NY 11205",
+    "phone": "(347) 533-7544"
   },
   {
     "image": "",
-    "name": " Oxomoco",
-    "category": "",
-    "description": "",
+    "name": "Oxomoco",
+    "category": "restaurant",
+    "description": "Airy Mexican eatery offering wood-fired dishes plus ample tequila & mezcal cocktails & a patio.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "5:30PM-10PM",
+      "Tuesday": "5:30PM-10PM",
+      "Wednesday": "12PM-3PM, 5:30-10PM",
+      "Thursday": "12PM-3:30PM, 5:30-10PM",
+      "Friday": "12PM-3:00PM, 5:30-10PM",
+      "Saturday": "11AM-3:00PM, 5:30-10PM",
+      "Sunday": "11AM-3:00PM, 5:30-10PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "128 Greenpoint Ave, Brooklyn, NY 11222",
+    "phone": "(646) 688-4180"
   },
   {
     "image": "",
     "name": "Nura",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Brooklyn restaurant serving Indian-accented New American fare and thoughtful wine & cocktails in a lively setting",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "5:30PM-10:30PM",
+      "Tuesday": "Closed",
+      "Wednesday": "5:30PM-10:30PM",
+      "Thursday": "5:30PM-10:30PM",
+      "Friday": "5:30PM-10:30PM",
+      "Saturday": "11:00AM-3:00PM, 5:30-10:30PM",
+      "Sunday": "11:00AM-3:00PM, 5:00-9:00PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "46 Norman Ave, Brooklyn, NY 11222",
+    "phone": "(347) 672-1222"
   },
   {
     "image": "",
     "name": "Crown Shy",
-    "address": "",
-    "phone": "",
-    "description": "Michelin starred, amazing restaurant, one of my favorites"
+    "category": "restaurant",
+    "description": "Polished, new American restaurant with global influences inside spacious room with high ceilings.",
+    "hours": {
+      "Monday": "5:30PM-12:00AM",
+      "Tuesday": "5:30PM-12:00AM",
+      "Wednesday": "5:30PM-12:00AM",
+      "Thursday": "5:30PM-12:00AM",
+      "Friday": "5:30PM-12:00AM",
+      "Saturday": "5:30PM-12:00AM",
+      "Sunday": "5:30PM-12:00AM"
+    },
+    "address": "70 Pine Street Ground Floor, New York, NY 10005",
+    "phone": "(212) 517-1932"
   },
   {
     "image": "",
     "name": "Arepera Guacuco",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "This family-run Venezuelan eatery serves arepas, empanadas & exotic juices in a no-frills setting.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "11:45AM-10:30PM",
+      "Tuesday": "11:45AM-10:30PM",
+      "Wednesday": "11:45AM-10:30PM",
+      "Thursday": "11:45AM-10:30PM",
+      "Friday": "11:45AM-10:30PM",
+      "Saturday": "10:45AM-11:30PM",
+      "Sunday": "10:45AM-10:15PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "44 Irving Ave, Brooklyn, NY 11237",
+    "phone": "(347) 305-3300"
   },
   {
     "image": "",
     "name": "The Woo",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Modern Korean eatery specializing in barbecue & mains with exposed brick walls & beamed ceilings.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "3PM-10PM",
+      "Tuesday": "3PM-10PM",
+      "Wednesday": "3PM-10PM",
+      "Thursday": "3PM-10PM",
+      "Friday": "3PM-11PM",
+      "Saturday": "12PM-11PM",
+      "Sunday": "12PM-10PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "206 Spring St, New York, NY 10012",
+    "phone": "(212) 925-2364"
   },
   {
     "image": "",
-    "name": "Ali's Roti Shop 337 Utica Ave ",
-    "category": "",
-    "description": "",
+    "name": "Ali's Roti Shop",
+    "category": "restaurant",
+    "description": "Bare-bones restaurant serving traditional Caribbean eats, like roti bread made from fresh dough.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "7AM-10PM",
+      "Tuesday": "7AM-10PM",
+      "Wednesday": "7AM-10PM",
+      "Thursday": "7AM-10PM",
+      "Friday": "7AM-10PM",
+      "Saturday": "7AM-10PM",
+      "Sunday": "6AM-10PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "337 Utica Ave, Brooklyn, NY 11213",
+    "phone": "(718) 778-7329"
   },
   {
     "image": "",
     "name": "C & Y",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Small quaint chinese food in park slope.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "Closed",
+      "Tuesday": "11AM-10:30PM",
+      "Wednesday": "11AM-10:30PM",
+      "Thursday": "11AM-10:30PM",
+      "Friday": "11AM-11:00PM",
+      "Saturday": "10:30AM-11:00PM",
+      "Sunday": "11AM-10:30PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "399 5th Ave, Brooklyn, NY 11215",
+    "phone": "(718) 768-1188"
   },
   {
     "image": "",
     "name": "La Bellezza",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Cozy pizzeria frequented by locals for their chicken parm hero.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "11AM-8:30PM",
+      "Tuesday": "11AM-8:30PM",
+      "Wednesday": "11AM-8:30PM",
+      "Thursday": "11AM-8:30PM",
+      "Friday": "11AM-8:30PM",
+      "Saturday": "12PM-8:00PM",
+      "Sunday": "Closed"
     },
-    "address": "",
-    "phone": ""
+    "address": "145 E 49th St, New York, NY 10022",
+    "phone": "(212) 871-3223"
   },
   {
     "image": "",
-    "name": " Masti",
-    "category": "",
-    "description": "",
+    "name": "Masti",
+    "category": "restaurant",
+    "description": "Classic Indian dishes are served at this casual, elegantly decorated venue with a tandoor oven.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "12PM-3PM, 4:30PM-10:00PM",
+      "Tuesday": "12PM-3PM, 4:30PM-10:00PM",
+      "Wednesday": "12PM-3PM, 4:30PM-10:00PM",
+      "Thursday": "12PM-3PM, 4:30PM-10:00PM",
+      "Friday": "12PM-3PM, 4:30PM-10:00PM",
+      "Saturday": "12PM-10PM",
+      "Sunday": "12PM-10PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "184 Havemeyer St, Brooklyn, NY 11211",
+    "phone": "(718) 599-1516"
   },
   {
     "image": "",
     "name": "Sylvia's",
-    "category": "",
-    "description": "",
+    "category": "restaurant",
+    "description": "Harlem landmark serving generous helpings of Southern comfort food since 1962.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "12PM-8PM",
+      "Tuesday": "12PM-8PM",
+      "Wednesday": "12PM-8PM",
+      "Thursday": "12PM-8PM",
+      "Friday": "12PM-10PM",
+      "Saturday": "12PM-10PM",
+      "Sunday": "12PM-8PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "328 Malcolm X Blvd, New York, NY 10027",
+    "phone": "(212) 996-0660"
   },
   {
     "image": "",
     "name": "Sam's Fried Ice Cream",
-    "category": "",
-    "description": "",
+    "category": "dessert",
+    "description": "No-frills counter offering deep-fried ice cream desserts with custom flavors & crust options.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "3PM-9PM",
+      "Thursday": "3PM-9PM",
+      "Friday": "2PM-11PM",
+      "Saturday": "2PM-11PM",
+      "Sunday": "3PM-9PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "37B Orchard St, New York, NY 10002",
+    "phone": "(646) 833-7538"
   },
   {
     "image": "",
     "name": "Spot Dessert Bar",
-    "category": "",
-    "description": "",
+    "category": "dessert",
+    "description": "The sweets combine Asian & American flavors at this St. Marks Place dessert cafe.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "4PM-12AM",
+      "Tuesday": "4PM-12AM",
+      "Wednesday": "4PM-12AM",
+      "Thursday": "4PM-12AM",
+      "Friday": "12PM-1AM",
+      "Saturday": "12PM-1AM",
+      "Sunday": "12PM-12AM"
     },
-    "address": "",
-    "phone": ""
+    "address": "The sweets combine Asian & American flavors at this St. Marks Place dessert cafe.",
+    "phone": "(212) 677-5670"
   },
   {
     "image": "",
-    "name": "Mikey Likes",
-    "category": "",
-    "description": "",
+    "name": "Mikey Likes It Ice Cream",
+    "category": "dessert",
+    "description": "Small, minimalist ice cream shop dishing up organic, creative flavors with pop-culture influences.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "2PM-9PM",
+      "Thursday": "2PM-9PM",
+      "Friday": "2PM-10PM",
+      "Saturday": "2PM-10PM",
+      "Sunday": "2PM-10PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "199 Avenue A, New York, NY 10009",
+    "phone": "(212) 673-0199"
   },
   {
     "image": "",
-    "name": "Morgenstern's",
-    "category": "",
-    "description": "",
+    "name": "Morgenstern's Finest Ice Cream",
+    "category": "dessert",
+    "description": "Flagship location of an artisanal ice cream shop with expanded menu of sweet treats plus cocktails.",
     "hours": {
-      "Monday": "",
-      "Tuesday": "",
-      "Wednesday": "",
-      "Thursday": "",
-      "Friday": "",
-      "Saturday": "",
-      "Sunday": ""
+      "Monday": "12PM-11PM",
+      "Tuesday": "12PM-11PM",
+      "Wednesday": "12PM-11PM",
+      "Thursday": "12PM-11PM",
+      "Friday": "12PM-12AM",
+      "Saturday": "12PM-12AM",
+      "Sunday": "12PM-11PM"
     },
-    "address": "",
-    "phone": ""
+    "address": "88 W Houston St, New York, NY 10012",
+    "phone": "(212) 209-7684"
   }
 ]
