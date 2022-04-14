@@ -1,8 +1,7 @@
 import mongoose from "mongoose";
 import chalk from "chalk";
 
-const MONGODB_URI =
-  process.env.PROD_MONGODB || "mongodb://127.0.0.1:27017/where-to";
+const MONGODB_URI = process.env.PROD_MONGODB || "mongodb://localhost/where-to";
 
 // Uncomment to debug Mongoose queries
 // mongoose.set('debug', true)
@@ -15,7 +14,7 @@ mongoose.set("returnOriginal", false);
 // https://mongoosejs.com/docs/connections.html#connections
 mongoose
   .connect(MONGODB_URI)
-  .catch((error) =>
+  .catch(error =>
     console.error("Error connecting to MongoDB: ", error.message)
   );
 
@@ -27,7 +26,7 @@ mongoose.connection.on("disconnected", () =>
 
 // Listen to any errors while connected to MongoDB
 // Learn more: https://mongoosejs.com/docs/connections.html#error-handling
-mongoose.connection.on("error", (error) =>
+mongoose.connection.on("error", error =>
   console.error(chalk.red(`MongoDB connection error: ${error}`))
 );
 
