@@ -13,10 +13,10 @@ export const getActivities = async (req, res) => {
 export const getActivity = async (req, res) => {
   try {
     const { id } = req.params;
-    const activity = await activity.findById(id);
+    const activities = await activity.findById(id);
 
-    if (activity) {
-      return res.json(activity);
+    if (activities) {
+      return res.json(activities);
     }
 
     res.status(400).json({ message: "activity not found!" });

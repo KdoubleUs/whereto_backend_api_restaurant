@@ -8,7 +8,8 @@ import activities from "./activities.json" assert { type: "json" };
 
 const insertData = async () => {
   // reset database
-  db.dropDatabase();
+
+  await db.dropDatabase();
 
   // insert restaurants into database
   await restaurant.insertMany(restaurants);

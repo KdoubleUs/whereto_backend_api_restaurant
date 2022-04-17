@@ -13,10 +13,10 @@ export const getBars = async (req, res) => {
 export const getBar = async (req, res) => {
   try {
     const { id } = req.params;
-    const bar = await bar.findById(id);
+    const bars = await bar.findById(id);
 
-    if (bar) {
-      return res.json(bar);
+    if (bars) {
+      return res.json(bars);
     }
 
     res.status(400).json({ message: "bar not found!" });
