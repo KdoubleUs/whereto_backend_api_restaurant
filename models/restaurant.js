@@ -6,15 +6,6 @@ let restaurant = new Schema({
   name: { type: String },
   catogory: { type: String },
   description: { type: String },
-  hours: {
-    Monday: { type: String },
-    Tuesday: { type: String },
-    Wednesday: { type: String },
-    Thursday: { type: String },
-    Friday: { type: String },
-    Saturday: { type: String },
-    Sunday: { type: String },
-  },
   address: { type: String },
   phone: { type: String },
 });
