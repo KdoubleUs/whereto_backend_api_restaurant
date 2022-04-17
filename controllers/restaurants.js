@@ -13,10 +13,10 @@ export const getRestaurants = async (req, res) => {
 export const getRestaurant = async (req, res) => {
   try {
     const { id } = req.params;
-    const restaurant = await restaurant.findById(id);
+    const restaurants = await restaurant.findById(id);
 
-    if (restaurant) {
-      return res.json(restaurant);
+    if (restaurants) {
+      return res.json(restaurants);
     }
 
     res.status(400).json({ message: "restaurant not found!" });
@@ -28,8 +28,8 @@ export const getRestaurant = async (req, res) => {
 
 export const createRestaurant = async (req, res) => {
   try {
-    const restaurant = new restaurant(req.body);
-    await restaurant.save();
+    const restaurants = new restaurant(req.body);
+    await restaurants.save();
     res.status(201).json(restaurant);
   } catch (error) {
     console.log(error);
@@ -39,7 +39,7 @@ export const createRestaurant = async (req, res) => {
 
 export const updateRestaurant = async (req, res) => {
   const { id } = req.params;
-  const restaurant = await restaurant.findByIdAndUpdate(id, req.body);
+  const restaurants = await restaurant.findByIdAndUpdate(id, req.body);
   res.status(200).json(restaurant);
 };
 

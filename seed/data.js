@@ -8,19 +8,27 @@ import activities from "./activities.json" assert { type: "json" };
 
 const insertData = async () => {
   // reset database
-  db.dropDatabase();
+  try {
+    restaurant.deleteMany({});
+    // insert restaurants into database
+    await restaurant.insertMany(restaurants);
+    console.log(`success`);
+    // close db connection (done)
+  } catch (err) {
+    console.log(err);
+  }
+};
+insertData();
 
-  // insert restaurants into database
-  await restaurant.insertMany(restaurants);
-
-  // insert bars into database
+const putData = async () => {
+  await bar.deleteMany();
   await bar.insertMany(bars);
-
-  // insert bars into database
+};
+putData();
+const slideData = async () => {
+  await activity.deleteMany();
   await activity.insertMany(activities);
-
-  // close db connection (done)
   db.close();
 };
 
-insertData();
+slideData();
