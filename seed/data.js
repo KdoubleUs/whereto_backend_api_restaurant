@@ -8,6 +8,7 @@ import activities from "./activities.json" assert { type: "json" };
 
 const insertData = async () => {
   // reset database
+
   try {
     restaurant.deleteMany({});
     // insert restaurants into database
@@ -19,6 +20,7 @@ const insertData = async () => {
   }
 };
 insertData();
+
 
 const putData = async () => {
   await bar.deleteMany();
