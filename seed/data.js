@@ -21,16 +21,23 @@ const insertData = async () => {
 };
 insertData();
 
-
 const putData = async () => {
-  await bar.deleteMany();
-  await bar.insertMany(bars);
+  try {
+    await bar.deleteMany();
+    await bar.insertMany(bars);
+  } catch (error) {
+    console.log(error);
+  }
 };
 putData();
 const slideData = async () => {
-  await activity.deleteMany();
-  await activity.insertMany(activities);
-  db.close();
+  try {
+    await activity.deleteMany();
+    await activity.insertMany(activities);
+    db.close();
+  } catch (error) {
+    console.log(error);
+  }
 };
 
 slideData();
