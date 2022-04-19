@@ -40,7 +40,7 @@ export const createRestaurant = async (req, res) => {
 export const updateRestaurant = async (req, res) => {
   const { id } = req.params;
   const restaurants = await restaurant.findByIdAndUpdate(id, req.body);
-  res.status(200).json(restaurant);
+  res.status(200).json(restaurants);
 };
 
 export const deleteRestaurant = async (req, res) => {
