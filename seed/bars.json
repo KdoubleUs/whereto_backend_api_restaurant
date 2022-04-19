@@ -102,5 +102,13 @@
     "description": "Both local & nationally known blues acts perform at this laid-back second-floor music club.",
     "address": "149 Bleecker St, New York, NY 10012",
     "phone": "(212) 777-7776"
+  },
+  {
+    "image": "https://d3emaq2p21aram.cloudfront.net/media/cache/venue_carousel/uploads/2015/02/Pouring-Ribbons-South-View-High-Res.-Photo-Credit-Carolyn-Fong.jpg",
+    "name": "Pouring Ribbons",
+    "category": "bar",
+    "description": "Contemporary craft cocktail bar with upscale lounge vibe & small menu of sophisticated bites",
+    "address": "225 Avenue B 2nd floor, New York, NY 10009",
+    "phone": "(917) 796-8618"
   }
 ]
