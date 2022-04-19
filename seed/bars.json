@@ -11,7 +11,7 @@
     "image": "https://urbanologie.com/media_cache/inner_slider/media/New%20York/April16/FreshKillsWburg6.jpg",
     "name": "Fresh Kills",
     "category": "bar",
-    "descripiton": "Attractive space for carefully-prepared craft cocktails.",
+    "description": "Attractive space for carefully-prepared craft cocktails.",
     "address": "161 Grand St, Brooklyn, NY 11249",
     "phone": "(718) 599-7888"
   },
@@ -19,7 +19,7 @@
     "image": "https://s3-media0.fl.yelpcdn.com/bphoto/eZhKPhnR3tL3FmhctD_2Tw/l.jpg",
     "name": "Barely Disfigured",
     "category": "bar",
-    "descripiton": "Low-lit lounge featuring craft cocktails amid bordello-inspired decor in a one-time massage parlor.",
+    "description": "Low-lit lounge featuring craft cocktails amid bordello-inspired decor in a one-time massage parlor.",
     "address": "257 Smith St, Brooklyn, NY 11231",
     "phone": "(718) 858-5646"
   },
@@ -27,7 +27,7 @@
     "image": "https://s3-media0.fl.yelpcdn.com/bphoto/3_dVAwfWLN67_plt5OJ7UA/348s.jpg",
     "name": "Mace",
     "category": "bar",
-    "descripiton": "Creative craft cocktails & snacks in a petite brick-walled space with some banquette seats & stools.",
+    "description": "Creative craft cocktails & snacks in a petite brick-walled space with some banquette seats & stools.",
     "address": "35 W 8th St, New York, NY 10011",
     "phone": "(347) 866-7739"
   },
@@ -35,15 +35,15 @@
     "image": "https://pr0.nicelocal.com/BOfx-393cD18NRo2R0ALKA/572x440,q85/4px-BW84_n0QJGVPszge3NRBsKw-2VcOifrJIjPYFYkOtaCZxxXQ2Q0G_dTV66_f5UOTzo9NBmpNQTNZeVC1xYh6MIFtgXsHdvhlSkK-APC-ANvYRim-mQ",
     "name": "Raine's Law Room",
     "category": "bar",
-    "descripiton": "A semi-secret entrance (ring bell) leads to this plush lounge crafting Prohibition-era cocktails.",
+    "description": "A semi-secret entrance (ring bell) leads to this plush lounge crafting Prohibition-era cocktails.",
     "address": "48 W 17th Street New York NY 10011",
-    "phone": ""
+    "phone": "212) 242-0600"
   },
   {
     "image": "https://i.pinimg.com/736x/c6/29/31/c629311e85ddbf8df74c53a4bd67f186.jpg",
     "name": "The Up & Up",
     "category": "bar",
-    "descripiton": "Dimly lit cocktail lounge offering sophisticated drinks plus snacks in a space with banquettes.",
+    "description": "Dimly lit cocktail lounge offering sophisticated drinks plus snacks in a space with banquettes.",
     "address": "116 MacDougal St, New York, NY 10012",
     "phone": "(212) 260-3000"
   },
@@ -51,7 +51,7 @@
     "image": "https://static.urbandaddy.com/uploads/assets/image/articles/standard/743890710d128b2fb298bc189431e336.jpg",
     "name": "Yours Sincerely",
     "category": "bar",
-    "descripiton": "Handsome hangout with a marble bar for on-tap cocktails, beers & wines.",
+    "description": "Handsome hangout with a marble bar for on-tap cocktails, beers & wines.",
     "address": "41 Wilson Ave, Brooklyn, NY 11237",
     "phone": "(929) 234-2344"
   },
@@ -59,7 +59,7 @@
     "image": "https://d3emaq2p21aram.cloudfront.net/media/cache/venue_carousel/uploads/2015/02/Pouring-Ribbons-South-View-High-Res.-Photo-Credit-Carolyn-Fong.jpg",
     "name": "Pouring Ribbons",
     "category": "bar",
-    "descripiton": "Contemporary craft cocktail bar with upscale lounge vibe & small menu of sophisticated bites",
+    "description": "Contemporary craft cocktail bar with upscale lounge vibe & small menu of sophisticated bites",
     "address": "225 Avenue B 2nd floor, New York, NY 10009",
     "phone": "(917) 796-8618"
   },
@@ -67,7 +67,7 @@
     "image": "https://untappedcities.com/wp-content/uploads/2020/02/The-Little-Shop-Speakeasy-Bodega-South-Street-Seaport-252-Front-Street-NYC_7.jpg",
     "name": "The Little Shop",
     "category": "bar",
-    "descripiton": "Intimate, narrow eatery serving breakfast by day, plus spirits & innovative cocktails by night.",
+    "description": "Intimate, narrow eatery serving breakfast by day, plus spirits & innovative cocktails by night.",
     "address": "252 Front St, New York, NY 10038",
     "phone": "(646) 360-4650"
   },
@@ -75,7 +75,7 @@
     "image": "https://media-cdn.tripadvisor.com/media/photo-s/0c/45/c5/b6/photo3jpg.jpg",
     "name": "Pokito",
     "category": "bar",
-    "descripiton": "Creative Latin-Asian cocktails offered in snug surrounds with whitewashed brick walls.",
+    "description": "Creative Latin-Asian cocktails offered in snug surrounds with whitewashed brick walls.",
     "address": "155 S 4th St, Brooklyn, NY 11211",
     "phone": "(917) 909-1542"
   },
@@ -83,15 +83,15 @@
     "image": "https://s3-media0.fl.yelpcdn.com/bphoto/dwdjKYi9W8RXUex1DI7hdA/l.jpg",
     "name": "Undercote",
     "category": "bar",
-    "descripiton": "Subterranean spot beneath a fine-dining restaurant with craft cocktails, champagne & jungle decor.",
+    "description": "Subterranean spot beneath a fine-dining restaurant with craft cocktails, champagne & jungle decor.",
     "address": "16 W 22nd St, New York, NY 10010",
-    "phone": ""
+    "phone": "(212) 401-7986"
   },
   {
     "image": "https://pyxis.nymag.com/v1/imgs/9d5/bf4/55eae2cdfd6608cb63370678e0b3d70b21-11-gallow-green.2x.h473.w710.jpg",
     "name": "Gallow Green",
     "category": "bar",
-    "descripiton": "Open year-round, this roof lounge with a green-garden vibe serves chic cocktails & punch bowls.",
+    "description": "Open year-round, this roof lounge with a green-garden vibe serves chic cocktails & punch bowls.",
     "address": "542 W 27th St, New York, NY 10001",
     "phone": "(212) 904-1880"
   },
@@ -99,7 +99,7 @@
     "image": "https://brokelyn.com/app/uploads/2014/10/sunshine-laundry.jpg",
     "name": "Sunshine Laundromat",
     "category": "bar",
-    "descripiton": "Brooklyn's finest laundromat, craft beer, and pinball emporium.",
+    "description": "Brooklyn's finest laundromat, craft beer, and pinball emporium.",
     "address": "860 Manhattan Ave, Brooklyn, NY 11222",
     "phone": "(718) 475-2055"
   },
@@ -107,7 +107,7 @@
     "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/04/a5/e7/78/terra-blues.jpg?w=1200&h=1200&s=1",
     "name": "Terra Blues",
     "category": "bar",
-    "descripiton": "Both local & nationally known blues acts perform at this laid-back second-floor music club.",
+    "description": "Both local & nationally known blues acts perform at this laid-back second-floor music club.",
     "address": "149 Bleecker St, New York, NY 10012",
     "phone": "(212) 777-7776"
   }
