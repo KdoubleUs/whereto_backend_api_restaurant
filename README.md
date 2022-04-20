@@ -3,7 +3,7 @@
 A JSON API built with MongoDB, Express, Javascript, Node, and RESTful routes that display information for the most coveted restaurants, bars, and activity spots in NYC.
 
 ## Architectural Pattern
-This project uses the MVC design pattern to structure the logic and user flow. The back-end is using a non-relational database, Mongodb/Mongoose to store the data. Because it is non-relational there are no associations. 
+This project uses the MVC design pattern to structure the logic and user flow. The back-end is using a non-relational database, MongoDB/Mongoose to store the data. Because it is non-relational there are no associations. 
 
 ## Models
 * Bars
