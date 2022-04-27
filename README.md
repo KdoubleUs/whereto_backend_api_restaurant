@@ -54,22 +54,22 @@ http://localhost:3001
 
 | Method | Endpoint            | Description                  |
 |--------|---------------------|------------------------------|
-| GET    | /api                | This is the API root.        |
-| GET    | /api/restaurants    | Retrieves all restaurants.   |
-| GET    | /api/bars           | Retrieves all bars.          |
-| GET    | /api/activities     | Retrieves all activities.    |
-| GET    | /api/restaurants:id | Retrieves one restaurant.    |
-| GET    | /api/bars:id        | Retrieves one bar.           |
-| GET    | /api/activities:id  | Retrieves one activity.      |
-| PUT    | /api/restaurants:id | Updates one restaurant.      |
-| PUT    | /api/bars:id        | Updates one bar.             |
-| PUT    | /api/activities:id  | Updates one activity.        |
-| POST   | /api/restaurants    | Creates a new restaurant.    |
-| POST   | /api/bars           | Creates a new bar.           |
-| POST   | /api/activities     | Creates a new activity.      |
-| DELETE | /api/restaurants:id | Deletes a single restaurant. |
-| DELETE | /api/bars:id        | Deletes a single bar.        |
-| DELETE | /api/activities:id  | Deletes a single activity.   |
+| `GET`    | /api                | This is the API root.        |
+| `GET`    | /api/restaurants    | Retrieves all restaurants.   |
+| `GET`    | /api/bars           | Retrieves all bars.          |
+| `GET`    | /api/activities     | Retrieves all activities.    |
+| `GET`    | /api/restaurants:id | Retrieves one restaurant.    |
+| `GET`    | /api/bars:id        | Retrieves one bar.           |
+| `GET`    | /api/activities:id  | Retrieves one activity.      |
+| `PUT`    | /api/restaurants:id | Updates one restaurant.      |
+| `PUT`    | /api/bars:id        | Updates one bar.             |
+| `PUT`    | /api/activities:id  | Updates one activity.        |
+| `POST`   | /api/restaurants    | Creates a new restaurant.    |
+| `POST`   | /api/bars           | Creates a new bar.           |
+| `POST`   | /api/activities     | Creates a new activity.      |
+| `DELETE` | /api/restaurants:id | Deletes a single restaurant. |
+| `DELETE` | /api/bars:id        | Deletes a single bar.        |
+| `DELETE` | /api/activities:id  | Deletes a single activity.   |
 
 ## Contributors
 
